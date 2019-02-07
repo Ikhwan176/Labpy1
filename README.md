@@ -1,6 +1,5 @@
 # labpy1
 ![foto1](https://raw.githubusercontent.com/Ikhwan176/labpy1/master/ScreenShot%201.jpg)
-
 1. Inputkan angka di bilangan ke-1
 
 2. Inputkan angka di bilangan ke-2
@@ -14,7 +13,6 @@
 6. ketik "ya" untuk melanjutkan dan ketik "tidak" untuk mengakhiri
 
 ![foto2](https://raw.githubusercontent.com/Ikhwan176/labpy1/master/ScreenShot.jpg)
-
 1.a=int(input('Bilangan ke-1 = '))
 	(Masukkan bilangan ke-1)
   
